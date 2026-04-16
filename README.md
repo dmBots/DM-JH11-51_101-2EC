@@ -1,19 +1,18 @@
 # DM-JH11-51_101-2EC
 
-## 概述
-- 这里是 `DM-JH11-51_101-2EC` 谐波电机资料入口。
-- 当前目录提供说明书、二维图和三维模型。
+## Overview
+- This is the entry page for the `DM-JH11-51_101-2EC` harmonic motor materials.
+- The current folder provides the manual, 2D drawings, and 3D models.
 
-## 文档 / 资源
-- [说明书/](说明书/) - 先看型号说明和使用说明。
-- [2D图纸/](2D图纸/) - 机械尺寸资料。
-- [3D模型/](3D模型/) - 结构集成模型。
+## Documentation / Resources
+- [说明书/](说明书/) - start here for model and usage notes.
+- [2D图纸/](2D图纸/) - mechanical dimensions.
+- [3D模型/](3D模型/) - integration models.
 
-## 快速开始
-- 第一次查看本型号时，先看 `说明书/`。
-- 如果你要做结构设计，再看 `2D图纸/` 和 `3D模型/`。
+## Quick Start
+- Read `说明书/` first, then open `2D图纸/` or `3D模型/` depending on your task.
 
-## 状态
-- ZH: 主版入口
-- EN: Translation pending
-- TBD: 更多调试资料按后续公开范围补齐
+## Status
+- EN: main entry
+- ZH: source files remain in this subtree
+- TBD: more workflow notes can be added later if they become public
