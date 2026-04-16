@@ -5,12 +5,12 @@
 - The current folder provides the manual, 2D drawings, and 3D models.
 
 ## Documentation / Resources
-- [说明书/](说明书/) - start here for model and usage notes.
-- [2D图纸/](2D图纸/) - mechanical dimensions.
-- [3D模型/](3D模型/) - integration models.
+- [Manual/](Manual/) - start here for model and usage notes.
+- [2D Drawings/](2D Drawings/) - mechanical dimensions.
+- [3D Models/](3D Models/) - integration models.
 
 ## Quick Start
-- Read `说明书/` first, then open `2D图纸/` or `3D模型/` depending on your task.
+- Read `Manual/` first, then open `2D Drawings/` or `3D Models/` depending on your task.
 
 ## Status
 - EN: main entry
